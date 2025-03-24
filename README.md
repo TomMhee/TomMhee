@@ -5,8 +5,8 @@
 👋 Hi, I'm Tom - a software engineer based in Cambridge, UK with a passion for building robust applications and solving complex problems.
 
 ### 💻 Technical Skills
-- **Languages**: Rust, JavaScript, TypeScript
-- **Frameworks/Libraries**: Node.js, React, Discord.js
+- **Languages**: C#, JavaScript, TypeScript
+- **Frameworks/Libraries**: Node.js, React, .Net
 - **Tools**: Git, Docker, CI/CD
 
 ### 🚀 Current Projects
@@ -14,7 +14,6 @@
 - **KoffieSearch**: A feature-rich and robust search engine using AI
 
 ### 🌱 I'm currently learning
-- Advanced Rust patterns
 - System design at scale
 - Microservice architecture
 
