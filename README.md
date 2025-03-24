@@ -11,7 +11,7 @@
 
 ### 🚀 Current Projects
 - **rustapi**: A high-performance API built with Rust
-- **Koffie-bot**: A feature-rich Discord bot for community management
+- **KoffieSearch**: A feature-rich and robust search engine using AI
 
 ### 🌱 I'm currently learning
 - Advanced Rust patterns
