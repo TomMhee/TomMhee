@@ -1,6 +1,6 @@
 # Thomas Hardcastle
 
-## Software Engineer | Rust & JavaScript Developer | Powerlifting Enthusiast
+## Software Engineer | Software Developer | Powerlifting Enthusiast
 
 👋 Hi, I'm Tom - a software engineer based in Cambridge, UK with a passion for building robust applications and solving complex problems.
 
